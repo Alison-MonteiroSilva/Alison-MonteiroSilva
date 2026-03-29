@@ -3,9 +3,11 @@
 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela faculdade Maurício de Nassau.
 🚀 Atualmente estou focado em evoluir minhas habilidades estudando:
 
-* 🐍 **Python**
-* 🤖 **Inteligência Artificial (IA)**
-* ⚙️ **Automação**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação-4CAF50?style=for-the-badge&logo=zapier&logoColor=white"/>
+</div>
 
 📚 Estou aprendendo através da Rocketseat, sempre buscando construir projetos práticos e aprimorar meu conhecimento na área de tecnologia.
 
