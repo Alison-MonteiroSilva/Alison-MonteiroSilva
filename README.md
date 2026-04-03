@@ -4,9 +4,9 @@
 🚀 Atualmente estou focado em evoluir minhas habilidades estudando:
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação-4CAF50?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/python-icon.svg"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/git-icon.svg"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/github-icon.svg"/>
 </div>
 <br>
 📚 Estou aprendendo através da Rocketseat, sempre buscando construir projetos práticos e aprimorar meu conhecimento na área de tecnologia.
