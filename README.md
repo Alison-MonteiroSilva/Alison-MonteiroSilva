@@ -4,7 +4,7 @@
 🚀 Atualmente estou focado em evoluir minhas habilidades estudando:
 
 <div>
-  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/python-icon.svg"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/javascript-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/git-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/github-icon.svg"/>
 </div>
@@ -22,11 +22,12 @@ Gosto de explorar novas ferramentas, automatizar processos e entender como as co
 
 ## 🛠️ Tecnologias & Estudos
 
-* Python 🐍
-* Git & GitHub 🔧
-* Lógica de Programação 🧠
-* Automação de processos ⚙️
-* Fundamentos de IA 🤖
+* JavaScript ⚡
+* Node.js 🟢
+* React ⚛️
+* SQL 🗄️
+* Inteligência Artificial 🤖
+* Automação ⚙️
 
 ---
 
