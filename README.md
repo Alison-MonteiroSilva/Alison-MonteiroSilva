@@ -4,7 +4,7 @@
 🚀 Atualmente estou focado em evoluir minhas habilidades estudando:
 
 <div>
-  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/javascript-icon.svg"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/python-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/git-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/github-icon.svg"/>
 </div>
