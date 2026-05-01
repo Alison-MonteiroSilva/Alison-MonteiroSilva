@@ -5,6 +5,7 @@
 
 <div>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/python-icon.svg"/>
+  <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/flask-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/git-icon.svg"/>
   <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/techs-icon/github-icon.svg"/>
 </div>
