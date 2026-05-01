@@ -23,12 +23,11 @@ Gosto de explorar novas ferramentas, automatizar processos e entender como as co
 
 ## 🛠️ Tecnologias & Estudos
 
-* JavaScript ⚡
-* Node.js 🟢
-* React ⚛️
-* SQL 🗄️
-* Inteligência Artificial 🤖
-* Automação ⚙️
+* Python
+* API's com Flask
+* Aplicações com redis
+* Arquitetura de Software
+* Padrão MVC
 
 ---
 
